@@ -19,5 +19,3 @@ Este é um projeto simples de um **Cardápio Interativo** desenvolvido com o obj
 - **React** (biblioteca principal)
 - **Tailwind CSS** (estilização)
 - **React Icons** (ícones)
-
-## Como Executar o Projeto
